@@ -85,7 +85,7 @@ Better GUI design
 
 👨‍💻 Author
 
-Pradip Bhure
+Rutuja Handargule
 
 📌 Project Type
 
