@@ -18,7 +18,7 @@ from openpyxl.styles import Font
 conn = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Rutu@123",
+    password="password",
     database="face_attendance"
 )
 
